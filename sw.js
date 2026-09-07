@@ -684,7 +684,7 @@ function V(e, t) {
 }
 //#endregion
 //#region src/sw.ts
-V([{"revision":"ce3b1496babedac9b46cbda32672864a","url":"index.html"},{"revision":"b105ed60a51e5d7e8fbadfae9472fc64","url":"favicon.svg"},{"revision":null,"url":"assets/index-BOU_TlbU.css"},{"revision":null,"url":"assets/index-BnPAYYH7.js"},{"revision":"b105ed60a51e5d7e8fbadfae9472fc64","url":"favicon.svg"},{"revision":"b9d4b05dbfee0ae9fcc898b050c5a6f4","url":"manifest.webmanifest"}]);
+V([{"revision":"2a5c097f6824b30f734ab55aba7b9bad","url":"index.html"},{"revision":"b105ed60a51e5d7e8fbadfae9472fc64","url":"favicon.svg"},{"revision":null,"url":"assets/index-ClGqyoLS.js"},{"revision":null,"url":"assets/index-BOU_TlbU.css"},{"revision":"b105ed60a51e5d7e8fbadfae9472fc64","url":"favicon.svg"},{"revision":"e1bf913365dbeea521c38ba010b48339","url":"manifest.webmanifest"}]);
 var H = [
 	{
 		id: "shake",
